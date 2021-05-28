@@ -36,9 +36,14 @@
 <script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('flutter-first-frame', function () {
-            navigator.serviceWorker.register('flutter_service_worker.js?v=3528042846');
+            navigator.serviceWorker.register('flutter_service_worker.js?v=2745376026');
         });
     }
+ if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+     navigator.serviceWorker.register("/firebase-messaging-sw.js");
+   });
+  }
 </script>
 
 <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-app.js"></script>
@@ -47,14 +52,14 @@
 
 <script>
     const firebaseConfig = {
-        apiKey: "AIzaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-        authDomain: "xxxxxxxxx.firebaseapp.com",
-        databaseURL: "https://xxxxxxxx.firebaseio.com",
-        projectId: "xxxxxx",
-        storageBucket: "xxxxxxx.appspot.com",
-        messagingSenderId: "xxxxxxxxxxxxx",
-        appId: "x:xxxxxxxxxxxx:web:xxxxxxxxxxxxxxxx",
-        measurementId: "G-xxxxxxxxx"
+        apiKey: "AIzaSyC3gV7Lne5Ycv40aEwL_SWrr_Eqv4cgmOw",
+        authDomain: "travel-union-2a15d.firebaseapp.com",
+        projectId: "travel-union-2a15d",
+        storageBucket: "travel-union-2a15d.appspot.com",
+        messagingSenderId: "469372522467",
+        appId: "1:469372522467:web:31a66a92667a82cbf4dad6",
+        measurementId: "G-J2GVZ9QDJG"
+
     };
     firebase.initializeApp(firebaseConfig);
     firebase.analytics();
