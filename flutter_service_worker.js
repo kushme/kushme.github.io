@@ -246,9 +246,9 @@ const RESOURCES = {
 "firebase-messaging-sw.js": "e3cb633ced387d5a461ec4350cb85275",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d30c0f5abbb047be21653971372e8db4",
-"/": "d30c0f5abbb047be21653971372e8db4",
-"main.dart.js": "89ea3c0b2effe90572e67cc958687545",
+"index.html": "3625f5760f89e8486eb5abbd589b0ed0",
+"/": "3625f5760f89e8486eb5abbd589b0ed0",
+"main.dart.js": "7d9a0aea7fbce722eb07cf314d3c1898",
 "manifest.json": "82c1b3d1720db1d7e16aa67960400e42",
 "version.json": "5e18e19887d62341063565b772de8746"
 };
