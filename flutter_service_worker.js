@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b3b92d356a4ca759a9b3b003ceb35ade",
+  "assets/AssetManifest.json": "8bdfcd3e1fa90965479a68cdea86cc24",
 "assets/assets/fonts/roboto_bold.ttf": "d329cc8b34667f114a95422aaad1b063",
 "assets/assets/fonts/roboto_medium.ttf": "894a2ede85a483bf9bedefd4db45cdb9",
 "assets/assets/fonts/roboto_regular.ttf": "230e0e1a8b7a17d5f3f03de75adea5a2",
@@ -121,6 +121,10 @@ const RESOURCES = {
 "assets/assets/images/hotel_dash.png": "e3e663973dcefacf3ccd6f4384f883ee",
 "assets/assets/images/hotel_icon.png": "a1c97cf9525e3cf4c62bef265a2690d2",
 "assets/assets/images/hotel_img.png": "e48231dd7f8ed1be5f22899dba09b03a",
+"assets/assets/images/hotel_Img1.png": "7fc73be32034a62e7021d6c1b0055533",
+"assets/assets/images/hotel_Img2.png": "ef247df3cf6971287cf5530066464765",
+"assets/assets/images/hotel_Img3.png": "1f19946eef2aa96d17081dba748d9855",
+"assets/assets/images/hotel_Img4.png": "22d021cd44c84cc52656a5fa6ee3b672",
 "assets/assets/images/hotel_img_1.png": "181cd7f9adf20f0233cebae5c2777b7f",
 "assets/assets/images/hotel_img_2.png": "bc8e7cc254c78eb2d0ebd744c28a2888",
 "assets/assets/images/hotel_img_3.png": "c569a39a3fd55b1222ec444885e9652d",
@@ -253,9 +257,9 @@ const RESOURCES = {
 "firebase-messaging-sw.js": "e3cb633ced387d5a461ec4350cb85275",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "53959218d03d3c79ee22932e7e312cdf",
-"/": "53959218d03d3c79ee22932e7e312cdf",
-"main.dart.js": "24acc5192d849b7a1318d9fd79df3fc6",
+"index.html": "417f00c83fbdea5490f45ea79d201942",
+"/": "417f00c83fbdea5490f45ea79d201942",
+"main.dart.js": "bbe8c2b3a07a7eacb740b412cd53e0cc",
 "manifest.json": "82c1b3d1720db1d7e16aa67960400e42",
 "version.json": "5e18e19887d62341063565b772de8746"
 };
