@@ -7545,6 +7545,7 @@ flutter_math_fork
 flutter_plugin_android_lifecycle
 google_maps_flutter
 google_maps_flutter_platform_interface
+pointer_interceptor
 url_launcher
 video_player
 video_player_platform_interface
