@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c253c0daccc8c1670461ec09f3d83c5c",
+  "assets/AssetManifest.json": "bf7dd07435519f07be88fbfcc13cb46f",
 "assets/assets/fonts/roboto_bold.ttf": "d329cc8b34667f114a95422aaad1b063",
 "assets/assets/fonts/roboto_medium.ttf": "894a2ede85a483bf9bedefd4db45cdb9",
 "assets/assets/fonts/roboto_regular.ttf": "230e0e1a8b7a17d5f3f03de75adea5a2",
@@ -17,6 +17,7 @@ const RESOURCES = {
 "assets/assets/icons/icon_checked.png": "6601d03c27b67b1425fa75551267b6df",
 "assets/assets/icons/juncton.png": "d2cfcbfd2a9baeed9958dfb1a0f11623",
 "assets/assets/icons/language.png": "b88920f0ab7308a9289eec8ef66ff5fc",
+"assets/assets/icons/please_wait.png": "614897400adb44b560ab87f3cdb615a9",
 "assets/assets/icons/ref_icn.png": "83ffa455466d0ec0cfcb540d9f25cc8a",
 "assets/assets/icons/remarks.png": "8eb65e91d462450be1a4928ba57c2b88",
 "assets/assets/icons/share.png": "a0c195df02d52521d688d21dab558ef6",
@@ -108,6 +109,7 @@ const RESOURCES = {
 "assets/assets/images/gov_id_nrega.png": "5f2bfce5ec3b06f679c30dab0d068347",
 "assets/assets/images/gov_id_passport.png": "60520b73b02f683efa8632b144b5959e",
 "assets/assets/images/gov_id_voterid.png": "5995e32a3556e34cd670fb52cc6102b8",
+"assets/assets/images/greyicon.png": "634b9c9b0a2b3f59d8b6e887b541778b",
 "assets/assets/images/group.png": "f515da0c88e2b5d0a64d97c221c29163",
 "assets/assets/images/group_flight.png": "05547764f2711dfcdc57ce8fffeda5da",
 "assets/assets/images/help_flight.png": "a947bb9068c8745ea5dd31c386761200",
@@ -133,6 +135,7 @@ const RESOURCES = {
 "assets/assets/images/hotel_img_2.png": "bc8e7cc254c78eb2d0ebd744c28a2888",
 "assets/assets/images/hotel_img_3.png": "c569a39a3fd55b1222ec444885e9652d",
 "assets/assets/images/hotel_passanger.png": "7a1c4d46932b7f199f5f678b1998193b",
+"assets/assets/images/hotel_placeholder.png": "245ea347417d228590ca5d393a8df795",
 "assets/assets/images/ic_history.png": "3e03eea8bcff24361c92e5cffbd44ce6",
 "assets/assets/images/ic_nationality.png": "f6fdb0f65ecac691cd1b33013e34ca54",
 "assets/assets/images/icon_cross_bl.png": "5e22b3be5affaead15c2e182b4fef165",
@@ -161,6 +164,7 @@ const RESOURCES = {
 "assets/assets/images/lang.png": "b794271b09d6248a7acdcd4c8ca6a698",
 "assets/assets/images/lang_more_ic.png": "81da5080a8c294852eece5feee848c42",
 "assets/assets/images/linkedIn_ic.png": "e6e1cab6bb289feea560e41ae599c459",
+"assets/assets/images/loader_handle.gif": "54c96e01d803babd068e18a742115a6e",
 "assets/assets/images/loction_ic.png": "022b095a236afde3a392c581fc45ffb5",
 "assets/assets/images/login_banner.png": "588b3ec8045df2a9d786f56228b9f31d",
 "assets/assets/images/login_banner_web.png": "df27e4fca2a2d1969ff66c11168fd254",
@@ -233,7 +237,7 @@ const RESOURCES = {
 "assets/assets/images/youtube_ic.png": "701924d2ac5259ffb0fb4a31d25adc24",
 "assets/FontManifest.json": "409df3525166b0e80778d23ebae8cdc1",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "d4f13cf54c3042ba3116dbb48f51518e",
+"assets/NOTICES": "6f735fa5bdf7f866907af7dd123b6b12",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
@@ -263,9 +267,9 @@ const RESOURCES = {
 "icons/ic_launcher.png": "38a88cd6e2a00dcf72456a689c4d9b66",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "20f3ace1f45d9c6055adf37fa6bd1e53",
-"/": "20f3ace1f45d9c6055adf37fa6bd1e53",
-"main.dart.js": "365cadb61a2602ce5adc9b9587051ab1",
+"index.html": "d3ea07d2e890319bc7095f2ffc6c30dd",
+"/": "d3ea07d2e890319bc7095f2ffc6c30dd",
+"main.dart.js": "69f286a322e77f86f1308fe3faadfd87",
 "manifest.json": "d23397b905dcdcdbd47b450111a4262b",
 "version.json": "5e18e19887d62341063565b772de8746"
 };
