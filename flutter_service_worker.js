@@ -183,7 +183,7 @@ const RESOURCES = {
 "assets/assets/images/multi_flightss.png": "687c856a4de664c96cd9853cab3a9c81",
 "assets/assets/images/multiway_details.png": "7bb07330de1e27e8a08db9f53aa25e71",
 "assets/assets/images/network_ic.png": "3b49c8929639b310ef8c416300a04ba3",
-"assets/assets/images/new_logo.png": "c5c77385ab93b95027265f588a292ce6",
+"assets/assets/images/new_logo.png": "dbb130e7c00959936a4e9579366cbb3e",
 "assets/assets/images/note.png": "ad788fc8ecee1911dfb232130252b16b",
 "assets/assets/images/offer_banner.png": "777a262bf019866841c61a0bd14dad1d",
 "assets/assets/images/one_way.png": "22525b7bdb600d2c6ce0a53d280fac64",
@@ -268,9 +268,9 @@ const RESOURCES = {
 "icons/ic_launcher.png": "38a88cd6e2a00dcf72456a689c4d9b66",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8121f646cc190d637f3b7a4e3531d00c",
-"/": "8121f646cc190d637f3b7a4e3531d00c",
-"main.dart.js": "453c518fd41189ecafe58ef83069a862",
+"index.html": "f42808a747181244155841ca770f8fb4",
+"/": "f42808a747181244155841ca770f8fb4",
+"main.dart.js": "cd15f2fd64fd0378f8e707d48c5ecce4",
 "manifest.json": "d23397b905dcdcdbd47b450111a4262b",
 "version.json": "5e18e19887d62341063565b772de8746"
 };
