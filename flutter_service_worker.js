@@ -263,14 +263,14 @@ const RESOURCES = {
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf": "85554307b465da7eb785fd3ce52ad282",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf": "87f56927f1ba726ce0591955c8b3b42d",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "firebase-messaging-sw.js": "e3cb633ced387d5a461ec4350cb85275",
+"ic_launcher.png": "b56c0391abbb75a4e7050e040abfbd0c",
 "icons/ic_launcher.png": "38a88cd6e2a00dcf72456a689c4d9b66",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5948059648641fbcf545604d66a68a2c",
-"/": "5948059648641fbcf545604d66a68a2c",
-"main.dart.js": "9c8af23c2ec4c93f0b1673ad344a9234",
+"index.html": "a3677d0683533d40b44cfca65d20e12c",
+"/": "a3677d0683533d40b44cfca65d20e12c",
+"main.dart.js": "5875cd175ad3440d6ce4817bcc422cb3",
 "manifest.json": "d23397b905dcdcdbd47b450111a4262b",
 "version.json": "5e18e19887d62341063565b772de8746"
 };
