@@ -36,7 +36,7 @@
 <!--<script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('flutter-first-frame', function () {
-            navigator.serviceWorker.register('flutter_service_worker.js?v=1681071873');
+            navigator.serviceWorker.register('flutter_service_worker.js?v=2106192993');
         });
     }
  if ('serviceWorker' in navigator) {
@@ -85,6 +85,15 @@ self.addEventListener('notificationclick', function (event) {
     console.log('notification received: ', event)
 });
 
+
+</script>
+
+<script src="//cdnt.netcoresmartech.com/smartechclient.js"></script>
+<script>
+    smartech("create", "ADGMOT35CHFLVDHBJNIG50K96AJD7D8A57UUIJHEOABILH4TPATG");
+    smartech("register", "e70b42cd7b7e8d6c4f5cfe2cf49da3b0");
+    smartech("identify", "");
+    smartech('dispatch',1,{});
 </script>
 
 <script src="main.dart.js" type="application/javascript"></script>
