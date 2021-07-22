@@ -2355,6 +2355,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 async
 collection
+crypto
 mime
 stream_channel
 typed_data
@@ -5532,6 +5533,7 @@ SOFTWARE.
 charcode
 fixnum
 glob
+http
 http_parser
 matcher
 path
@@ -5870,7 +5872,6 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 convert
-crypto
 source_gen
 
 Copyright 2015, the Dart project authors.
@@ -6482,7 +6483,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart_style
-http
 shelf
 
 Copyright 2014, the Dart project authors. 
@@ -6541,8 +6541,10 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 device_info
 device_info_platform_interface
+image_picker_platform_interface
 package_info
 path_provider_macos
+path_provider_windows
 shared_preferences
 shared_preferences_platform_interface
 url_launcher_platform_interface
@@ -7772,8 +7774,6 @@ flutter_math_fork
 flutter_plugin_android_lifecycle
 google_maps_flutter
 google_maps_flutter_platform_interface
-image_picker_platform_interface
-path_provider_windows
 pointer_interceptor
 url_launcher
 video_player
